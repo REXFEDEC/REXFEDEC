@@ -4,9 +4,8 @@
 </p>
 
 ---
----
 
-## well sum stuff about me . . .
+## <img src="helmet.png" width="30" /> well sum stuff about me . . .
 
 <table>
   <tr>
@@ -22,7 +21,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><img src="listen.png" width="30" /> Runtime Fuel</h3>
-      <p>Fueled by curiosity + caffeine + questionable Apple Music recommendations.</p>
+      <p>Fueled by curiosity + *Bike Rides* + questionable Apple Music recommendations.</p>
     </td>
     <td width="50%" valign="top">
       <h3><img src="mushroom.png" width="30" /> Stack of Choice</h3>
@@ -33,7 +32,7 @@
 
 ---
 
-##  Tech I Dig
+## <img src="cyberpunk.png" width="30" /> Tech I Dig
 
 <table>
   <tr>
@@ -60,7 +59,7 @@
 
 ---
 
-## 🔥 Some Things I've Made
+## <img src="metropolis.png" width="30" /> Some Things I've Made
 
 <table align="center">
   <tr>
@@ -105,26 +104,26 @@
 
 ---
 
-## 🔬 What’s Next?
+## <img src="sewing.png" width="30" /> What’s Next?
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧪 Research Mode</h3>
+      <h3><img src="science.png" width="30" /> Research Mode</h3>
       <p>Focus on research</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔁 Build Loop</h3>
+      <h3><img src="feedback-loop.png" width="30" /> Build Loop</h3>
       <p>Break things, learn things, repeat</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 Lab Tech Energy</h3>
+      <h3><img src="lab.png" width="30" /> Lab Tech Energy</h3>
       <p>Become <em>that tech guy</em> in a biology lab running protein simulations at 3 AM</p>
     </td>
     <td width="50%" valign="top">
-      <h3>👨‍💻 Make More Pet Projects</h3>
+      <h3><img src="person.png" width="30" /> Make More Pet Projects</h3>
       <p>Make more cool stuff that solves a problem too.</p>
     </td>
   </tr>
@@ -132,26 +131,26 @@
 
 ---
 
-## 🔗 Follow Me
+## <img src="carrier-pigeon.png" width="40" /> Follow Me
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Portfolio</h3>
+      <h3> <img src="sm.png" width="30" /> Portfolio</h3>
       <p><a href="https://sameer.goneto.space">sameer.goneto.space</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 LinkedIn</h3>
-      <p><a href="https://www.linkedin.com/in/sameer-mann">/in/sameer-mann</a></p>
+      <h3> <img src="linkedin.png" width="30" /> LinkedIn</h3>
+      <p><a href="https://www.linkedin.com/in/sameer-mann">sameer-mann</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📧 Email</h3>
+      <h3> <img src="literature.png" width="30" /> Email</h3>
       <p><a href="mailto:sameermann5335@gmail.com">sameermann5335@gmail.com</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>☕ Buy Me a Coffee</h3>
+      <h3> <img src="hot-chocolate.png" width="30" /> Buy Me a Coffee</h3>
       <p><a href="https://buymeacoffee.com/sameermann">buymeacoffee.com/sameermann</a></p>
     </td>
   </tr>
@@ -161,6 +160,8 @@
 
 <p align="center">
   <sub>Built with curiosity, caffeine, and the eternal hope production doesn’t implode.</sub>
+  <br />
+  <sub>also you can find the credits to all images used in <a href="credits.md">credits.md</a></sub>
 </p>
 
 <!-- If you're reading this: you're either evaluating me or stalking. Either way: welcome. -->

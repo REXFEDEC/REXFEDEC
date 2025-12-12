@@ -4,104 +4,106 @@
 </p>
 
 ---
+---
 
 ## well sum stuff about me . . .
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="curious.png" width="25" /> Curious + Chaotic</h3>
+      <h3><img src="curious.png" width="30" /> Curious + Chaotic</h3>
       <p>I take on random-some projects because I'm both curious <em>and</em> chaotic.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 Problem Solver First</h3>
+      <h3><img src="lego.png" width="30" /> Problem Solver First</h3>
       <p>I'm a <strong>problem-solver first</strong>, code monkey second.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☕ Runtime Fuel</h3>
+      <h3><img src="listen.png" width="30" /> Runtime Fuel</h3>
       <p>Fueled by curiosity + caffeine + questionable Apple Music recommendations.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠⚙️🎮 Stack of Choice</h3>
+      <h3><img src="mushroom.png" width="30" /> Stack of Choice</h3>
       <p>AI for quick prototypes, backend engineering for the real stuff, gaming for my sanity.</p>
     </td>
   </tr>
 </table>
 
 ---
-
-## ⚙️ Tech I Dig
+---
+##  Tech I Dig
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ Backend Engineering</h3>
+      <h3><img src="computer.png" width="30" /> Backend Engineering</h3>
       <p>because I clearly am bad at frontend . . .</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI (for quick prototyping)</h3>
+      <h3><img src="retro.png" width="30" /> AI (for quick prototyping)</h3>
       <p>not proud of this one, will jump this ship after my college</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐧 Linux / Docker / Cloudflare Workers</h3>
+      <h3><img src="penguin.png" width="30" /> Linux / Docker / Cloudflare Workers</h3>
       <p>I use arch btw (wanted to use void but just couldn't make it work)</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🖥️ My PC</h3>
+      <h3><img src="pc.png" width="30" /> My PC</h3>
       <p>(primarily gaming but let’s pretend it’s for work)</p>
     </td>
   </tr>
 </table>
 
 ---
-
+---
 ## 🔥 Some Things I've Made
 
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="48" />
+      <img src="dbt.png" width="100" />
       <br />
       <strong>DreamBitTech</strong>
       <br />
       <sub>A full-stack PC parts platform</sub>
       <br />
-      <a href="https://sameer.goneto.space/projects#dreambittech">View →</a>
+      <a href="https://dreambittech.rf.gd">View →</a>
     </td>
     <td align="center" width="250">
-      <img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="48" />
+      <img src="tehesmol.png" width="100" />
       <br />
       <strong>FactorSphere</strong>
       <br />
       <sub>AI-powered research suite</sub>
       <br />
-      <a href="https://sameer.goneto.space/projects#factorsphere">View →</a>
+      <a href="https://lander.factorsphere.org">View →</a>
     </td>
     <td align="center" width="250">
-      <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="48" />
+      <img src="icon.png" width="100" />
       <br />
       <strong>MusiK</strong>
       <br />
       <sub>Cross-platform music app</sub>
       <br />
-      <a href="https://sameer.goneto.space/projects#musik">View →</a>
+      <a href="https://github.com/REXFEDEC/musik">View →</a>
     </td>
     <td align="center" width="250">
-      <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="48" />
+      <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="100" />
       <br />
       <strong>pd2ai</strong>
       <br />
       <sub>PDF → OCR → AI wizardry</sub>
       <br />
-      <a href="https://sameer.goneto.space/projects#pd2ai">View →</a>
+      <a href="https://pdf.goneto.space">View →</a>
     </td>
   </tr>
 </table>
 
+---
 ---
 
 ## 🔬 What’s Next?
@@ -130,6 +132,7 @@
 </table>
 
 ---
+---
 
 ## 🔗 Follow Me
 
@@ -156,6 +159,7 @@
   </tr>
 </table>
 
+---
 ---
 
 <p align="center">

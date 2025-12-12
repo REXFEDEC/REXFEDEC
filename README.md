@@ -34,7 +34,7 @@
 
 ## <img src="cyberpunk.png" width="30" /> Tech I Dig
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><img src="computer.png" width="30" /> Backend Engineering</h3>
@@ -61,7 +61,7 @@
 
 ## <img src="metropolis.png" width="30" /> Some Things I've Made
 
-<table align="center">
+<table width="100%">
   <tr>
     <td align="center" width="250">
       <img src="dbt.png" width="100" />
@@ -106,7 +106,7 @@
 
 ## <img src="sewing.png" width="30" /> What’s Next?
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><img src="science.png" width="30" /> Research Mode</h3>
@@ -133,7 +133,7 @@
 
 ## <img src="carrier-pigeon.png" width="40" /> Follow Me
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3> <img src="sm.png" width="30" /> Portfolio</h3>
@@ -152,6 +152,14 @@
     <td width="50%" valign="top">
       <h3> <img src="hot-chocolate.png" width="30" /> Buy Me a Coffee</h3>
       <p><a href="https://buymeacoffee.com/sameermann">buymeacoffee.com/sameermann</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🖥️ The Rig That Funds the Lore</h3>
+      <p>
+        <img src="moinpc.jpeg" alt="My PC" width="100%" />
+      </p>
     </td>
   </tr>
 </table>

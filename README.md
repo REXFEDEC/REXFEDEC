@@ -32,7 +32,7 @@
 </table>
 
 ---
----
+
 ##  Tech I Dig
 
 <table>
@@ -59,7 +59,7 @@
 </table>
 
 ---
----
+
 ## 🔥 Some Things I've Made
 
 <table align="center">
@@ -104,7 +104,6 @@
 </table>
 
 ---
----
 
 ## 🔬 What’s Next?
 
@@ -132,7 +131,6 @@
 </table>
 
 ---
----
 
 ## 🔗 Follow Me
 
@@ -159,7 +157,6 @@
   </tr>
 </table>
 
----
 ---
 
 <p align="center">
